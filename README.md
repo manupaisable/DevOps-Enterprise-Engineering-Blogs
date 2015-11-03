@@ -6,5 +6,7 @@ Engineering blogs from companies speaking at DevOps Enterprise Summit
 
 [Intel](https://software.intel.com/en-us/blogs/)
 
+[Orbitz](http://www.orbitz.com/techblog/)
+
 [Target](https://pulse.target.com/category/technology-2/)
 
