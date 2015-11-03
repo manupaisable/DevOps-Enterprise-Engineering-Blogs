@@ -4,6 +4,10 @@ Engineering blogs from organizations speaking at DevOps Enterprise Summit
 
 [18F](https://18f.gsa.gov/blog/)
 
+[Accenture](https://www.accenture.com/us-en/blogs/blogs-accenture-devops)
+
+[Axelos](https://www.axelos.com/news/blogs)
+
 [Capital One](http://www.capitalone.io/)
 
 [CenturyLink](https://www.ctl.io/blog/tag/Engineering/)
@@ -26,9 +30,15 @@ Engineering blogs from organizations speaking at DevOps Enterprise Summit
 
 [Practical Large Scale Agile (Gary Gruver)](http://practicallargescaleagile.com/)
 
+[Qualcomm](https://developer.qualcomm.com/blogs)
+
 [Salesforce](https://developer.salesforce.com/blogs/engineering/)
 
 [Sonatype](http://blog.sonatype.com/)
+
+[Spirent](http://www.spirent.com/Blogs)
+
+[Stack Overflow](http://blog.stackoverflow.com/engineering/)
 
 [Survey Monkey](https://www.surveymonkey.com/blog/tag/engineering/)
 
