@@ -1,6 +1,7 @@
 #DevOps Enterprise Engineering Blogs
 
 Engineering blogs from organizations speaking at DevOps Enterprise Summit 
+
 (contributions welcome!)
 
 [18F](https://18f.gsa.gov/blog/)
