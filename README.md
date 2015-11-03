@@ -18,17 +18,25 @@ Engineering blogs from organizations speaking at DevOps Enterprise Summit
 
 [Cisco](http://blogs.cisco.com/analytics-automation)
 
+[CSC](http://blogs.csc.com/)
+
+[Docker](https://blog.docker.com/category/engineering/)
+
 [DTO Solutions](http://dev2ops.org/)
 
 [Focused Objective](http://focusedobjective.com/news/)
 
 [Forrester Research](http://blogs.forrester.com/application_development)
 
+[High Velocity Edge (Steve Spears)](http://www.thehighvelocityedge.com/media/)
+
 [Intel](https://software.intel.com/en-us/blogs/)
 
 [Kenna Security](http://blog.kennasecurity.com/)
 
 [LeanKit](http://leankit.com/blog/)
+
+[Microsoft](http://blogs.microsoft.com/)
 
 [Netflix](http://techblog.netflix.com/)
 
@@ -44,6 +52,8 @@ Engineering blogs from organizations speaking at DevOps Enterprise Summit
 
 [Sauce Labs](http://sauceio.com/)
 
+[Software Engineering Institute](https://insights.sei.cmu.edu/devops/)
+
 [Sonatype](http://blog.sonatype.com/)
 
 [Spirent](http://www.spirent.com/Blogs)
@@ -57,3 +67,5 @@ Engineering blogs from organizations speaking at DevOps Enterprise Summit
 [Tickermaster](http://tech.ticketmaster.com/)
 
 [Verizon](https://www.verizondigitalmedia.com/blog/)
+
+[Yahoo!](http://yahooeng.tumblr.com/)
