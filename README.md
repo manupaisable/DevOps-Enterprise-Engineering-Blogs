@@ -6,6 +6,10 @@ Engineering blogs from organizations speaking at DevOps Enterprise Summit
 
 [Accenture](https://www.accenture.com/us-en/blogs/blogs-accenture-devops)
 
+[Alien Vault](https://www.alienvault.com/blogs)
+
+[AWS](https://aws.amazon.com/blogs/aws/)
+
 [Axelos](https://www.axelos.com/news/blogs)
 
 [Capital One](http://www.capitalone.io/)
@@ -16,6 +20,8 @@ Engineering blogs from organizations speaking at DevOps Enterprise Summit
 
 [DTO Solutions](http://dev2ops.org/)
 
+[Focused Objective](http://focusedobjective.com/news/)
+
 [Forrester Research](http://blogs.forrester.com/application_development)
 
 [Intel](https://software.intel.com/en-us/blogs/)
@@ -23,6 +29,8 @@ Engineering blogs from organizations speaking at DevOps Enterprise Summit
 [Kenna Security](http://blog.kennasecurity.com/)
 
 [LeanKit](http://leankit.com/blog/)
+
+[Netflix](http://techblog.netflix.com/)
 
 [Orbitz](http://www.orbitz.com/techblog/)
 
@@ -34,6 +42,8 @@ Engineering blogs from organizations speaking at DevOps Enterprise Summit
 
 [Salesforce](https://developer.salesforce.com/blogs/engineering/)
 
+[Sauce Labs](http://sauceio.com/)
+
 [Sonatype](http://blog.sonatype.com/)
 
 [Spirent](http://www.spirent.com/Blogs)
@@ -44,3 +54,6 @@ Engineering blogs from organizations speaking at DevOps Enterprise Summit
 
 [Target](https://pulse.target.com/category/technology-2/)
 
+[Tickermaster](http://tech.ticketmaster.com/)
+
+[Verizon](https://www.verizondigitalmedia.com/blog/)
