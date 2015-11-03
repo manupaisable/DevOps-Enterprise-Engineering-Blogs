@@ -6,7 +6,11 @@ Engineering blogs from organizations speaking at DevOps Enterprise Summit
 
 [Capital One](http://www.capitalone.io/)
 
+[CenturyLink](https://www.ctl.io/blog/tag/Engineering/)
+
 [Cisco](http://blogs.cisco.com/analytics-automation)
+
+[DTO Solutions](http://dev2ops.org/)
 
 [Forrester Research](http://blogs.forrester.com/application_development)
 
@@ -19,6 +23,10 @@ Engineering blogs from organizations speaking at DevOps Enterprise Summit
 [Orbitz](http://www.orbitz.com/techblog/)
 
 [Pivotal Labs](http://blog.pivotal.io/channels/pivotal-labs)
+
+[Practical Large Scale Agile (Gary Gruver)](http://practicallargescaleagile.com/)
+
+[Salesforce](https://developer.salesforce.com/blogs/engineering/)
 
 [Sonatype](http://blog.sonatype.com/)
 
