@@ -1,6 +1,7 @@
 #DevOps Enterprise Engineering Blogs
 
 Engineering blogs from organizations speaking at DevOps Enterprise Summit 
+(contributions welcome!)
 
 [18F](https://18f.gsa.gov/blog/)
 
@@ -23,6 +24,8 @@ Engineering blogs from organizations speaking at DevOps Enterprise Summit
 [Docker](https://blog.docker.com/category/engineering/)
 
 [DTO Solutions](http://dev2ops.org/)
+
+[Electric Cloud](http://electric-cloud.com/blog/)
 
 [Focused Objective](http://focusedobjective.com/news/)
 
@@ -47,6 +50,8 @@ Engineering blogs from organizations speaking at DevOps Enterprise Summit
 [Practical Large Scale Agile (Gary Gruver)](http://practicallargescaleagile.com/)
 
 [Qualcomm](https://developer.qualcomm.com/blogs)
+
+[Red Hat](http://developerblog.redhat.com/)
 
 [Salesforce](https://developer.salesforce.com/blogs/engineering/)
 
