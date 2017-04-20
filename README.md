@@ -44,6 +44,8 @@ Engineering blogs from organizations speaking at DevOps Enterprise Summit
 
 [Netflix](http://techblog.netflix.com/)
 
+[OmniTI](https://omniti.com/seeds/)
+
 [Orbitz](http://www.orbitz.com/techblog/)
 
 [Pivotal Labs](http://blog.pivotal.io/channels/pivotal-labs)
